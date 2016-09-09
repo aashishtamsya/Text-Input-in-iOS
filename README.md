@@ -18,7 +18,17 @@ Created by Aashish Tamsya on 09/09/16.
 Copyright © 2016 Aashish Tamsya. All rights reserved.
 -->
 
-#Requirements
+## Contents
+
+-	[Requirements](#requirements)
+-	[Installation](#installation)
+-	[Demo](#demo)
+-	[Contributing](#contributing)
+-	[Credits](#credits)
+-	[License](#license)
+
+
+## Requirements
 * iOS 9.0+
 * Xcode 7.0
 
@@ -30,6 +40,9 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 $ git clone https://github.com/aashishtamsya/Text-Input-in-iOS.git 
 ```
 
+## Demo
+
+![Text Input in iOS Demo](Resources/ATTextInputDemo.gif)
 
 <!---
 Created by Aashish Tamsya on 09/09/16.
